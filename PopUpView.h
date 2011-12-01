@@ -4,10 +4,10 @@
 
 @interface PopUpView : UIView
 {
-  UIView *_originalAddToView;
-  UIView *_contentView;
-  UIView *_view;
-  UILabel *_label;
+    UIView *_originalAddToView;
+    UIView *_contentView;
+    UIView *_view;
+    UILabel *_label;
 }
 
 // constructor
